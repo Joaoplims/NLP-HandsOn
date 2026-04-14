@@ -77,6 +77,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+# === Google Colab / Jupyter Specific ===
+*/.ipynb_checkpoints/*  
+.virtual_documents/     
+shell-log-history       
 
 # IPython
 profile_default/
@@ -179,3 +183,4 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
