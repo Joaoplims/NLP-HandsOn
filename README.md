@@ -11,3 +11,4 @@ Basta copiar o link fornecido nas tabelas a baixo > Abrir o Google Colabs > Sele
 | HO00 | Preprocessamento do texto de lei "eca digital" | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO00) |
 | HO01 | Preprocessamento do texto fornecido pelo processor | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO01) |
 | HO02 | Explorando representações vetoriais | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO02) |
+| HO03 | Clustering de textos | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO03)|
