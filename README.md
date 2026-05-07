@@ -12,3 +12,4 @@ Basta copiar o link fornecido nas tabelas a baixo > Abrir o Google Colabs > Sele
 | HO01 | Preprocessamento do texto fornecido pelo processor | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO01) |
 | HO02 | Explorando representações vetoriais | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO02) |
 | HO03 | Clustering de textos | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HO03)|
+| HOF01| Projeto final 1: Modelagem de tópicos em provas da PosComp - Criação do dataset | [GitHub](https://github.com/Joaoplims/NLP-HandsOn/tree/main/HOF01_PosComp_dataset)|
